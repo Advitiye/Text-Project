@@ -1,0 +1,25 @@
+#first_div {
+    background-color: lightblue;
+    width : 99%;
+    border-radius: 10px;
+}
+.info_tag {
+    font-size: 18px;
+    color : white
+}
+.howto_tag {
+    font-size: 14px;
+    color : plum
+}
+#widhe {
+    font-size:18px;
+    color:white
+}
+#copyright_footer {
+    background-color: gray;
+    color:white;
+    font-size : 13px;
+    bottom : 0;
+    position : fixed;
+    width :100%
+}
